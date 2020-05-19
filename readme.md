@@ -1,3 +1,3 @@
 #Blackjack
 
-[Blackjack](https://jsg8405.github.io/game-blackjack/)
+[Blackjack](https://NimrockDev.github.io/game-blackjack/)
